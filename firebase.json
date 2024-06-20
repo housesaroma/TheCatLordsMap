@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"thecatlordsmap","appId":"1:109040104501:android:a2fba406f28942da00ad7c","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"thecatlordsmap","configurations":{"android":"1:109040104501:android:a2fba406f28942da00ad7c","ios":"1:109040104501:ios:5d62a4482e8bf84300ad7c"}}}}}}
